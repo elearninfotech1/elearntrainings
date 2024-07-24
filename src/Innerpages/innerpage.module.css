@@ -1,0 +1,77 @@
+p {
+    text-align: justify;
+    line-height: 28px;
+}
+
+.bx_shadow {
+    box-shadow: 3px 4px 5px 5px #ddd;
+    margin-bottom: 25px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.bx_shadow h6 {
+    text-align: center;
+    padding: 8px 0px;
+}
+
+.breadcrumb {
+    background-color: rgb(64, 169, 25);
+}
+
+.breadcrumb h3 {
+    padding: 25px 0px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.title span {
+    color: red
+}
+
+.bg_main {
+    background-color: #efeded;
+}
+
+.contactus p {
+    line-height: 19px;
+}
+
+.contactus h6 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+textarea {
+    height: 120px;
+    margin-bottom: 25px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+.errMsg {
+    color: red;
+    margin-bottom: 15px;
+}
+
+.navigation li {
+    margin-bottom: 20px;
+}
